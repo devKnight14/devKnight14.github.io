@@ -8,10 +8,10 @@
     "static/js/2.ee6d2f12.chunk.js.map": "/staking/static/js/2.ee6d2f12.chunk.js.map",
     "static/js/3.06e45a16.chunk.js": "/staking/static/js/3.06e45a16.chunk.js",
     "static/js/3.06e45a16.chunk.js.map": "/staking/static/js/3.06e45a16.chunk.js.map",
-    "main.js": "/staking/static/js/main.08d0cca6.chunk.js",
-    "main.js.map": "/staking/static/js/main.08d0cca6.chunk.js.map",
-    "runtime-main.js": "/staking/static/js/runtime-main.f4ec4625.js",
-    "runtime-main.js.map": "/staking/static/js/runtime-main.f4ec4625.js.map",
+    "main.js": "/staking/static/js/main.d2d4a56c.chunk.js",
+    "main.js.map": "/staking/static/js/main.d2d4a56c.chunk.js.map",
+    "runtime-main.js": "/staking/static/js/runtime-main.2e79c402.js",
+    "runtime-main.js.map": "/staking/static/js/runtime-main.2e79c402.js.map",
     "static/css/6.ecdd39c8.chunk.css": "/staking/static/css/6.ecdd39c8.chunk.css",
     "static/js/6.4c5488f7.chunk.js": "/staking/static/js/6.4c5488f7.chunk.js",
     "static/js/6.4c5488f7.chunk.js.map": "/staking/static/js/6.4c5488f7.chunk.js.map",
@@ -76,8 +76,8 @@
     "static/js/34.115a5715.chunk.js.map": "/staking/static/js/34.115a5715.chunk.js.map",
     "static/js/35.398f787b.chunk.js": "/staking/static/js/35.398f787b.chunk.js",
     "static/js/35.398f787b.chunk.js.map": "/staking/static/js/35.398f787b.chunk.js.map",
-    "static/js/36.6a8716e2.chunk.js": "/staking/static/js/36.6a8716e2.chunk.js",
-    "static/js/36.6a8716e2.chunk.js.map": "/staking/static/js/36.6a8716e2.chunk.js.map",
+    "static/js/36.72f168b7.chunk.js": "/staking/static/js/36.72f168b7.chunk.js",
+    "static/js/36.72f168b7.chunk.js.map": "/staking/static/js/36.72f168b7.chunk.js.map",
     "static/js/37.8844cd6e.chunk.js": "/staking/static/js/37.8844cd6e.chunk.js",
     "static/js/37.8844cd6e.chunk.js.map": "/staking/static/js/37.8844cd6e.chunk.js.map",
     "static/js/38.9b609061.chunk.js": "/staking/static/js/38.9b609061.chunk.js",
@@ -106,9 +106,9 @@
     "static/media/syrup-nft.2201815e.png": "/staking/static/media/syrup-nft.2201815e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f4ec4625.js",
+    "static/js/runtime-main.2e79c402.js",
     "static/css/6.ecdd39c8.chunk.css",
     "static/js/6.4c5488f7.chunk.js",
-    "static/js/main.08d0cca6.chunk.js"
+    "static/js/main.d2d4a56c.chunk.js"
   ]
 }
